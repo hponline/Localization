@@ -1,0 +1,3021 @@
+{
+  "?xml": {
+    "@version": "1.0",
+    "@encoding": "UTF-8"
+  },
+  "Localization": {
+    "Section": {
+      "TextKey": [
+        {
+          "@code": "home",
+          "TR": "Ana Sayfa",
+          "EN": "Home Page",
+          "GR": "Startseite"
+        },
+        {
+          "@code": "username",
+          "TR": "Kullanıcı Adı",
+          "EN": "Username",
+          "GR": "Nutzername"
+        },
+        {
+          "@code": "password",
+          "TR": "Şifre",
+          "EN": "Password",
+          "GR": "Passwort"
+        },
+        {
+          "@code": "back",
+          "TR": "Geri",
+          "EN": "Back",
+          "GR": "Zurück",
+          "AR": "الرجوع"
+        },
+        {
+          "@code": "rememberme",
+          "TR": "Beni Hatırla",
+          "EN": "Remember me",
+          "GR": "Erinnere dich an mich"
+        },
+        {
+          "@code": "unauthorizedAccess",
+          "TR": "Yetkisiz Giriş",
+          "EN": "Unauthorized Access",
+          "GR": "Unbefugter Zugriff",
+          "AR": "دخول غير مرخص"
+        },
+        {
+          "@code": "login",
+          "TR": "Giriş",
+          "EN": "Login",
+          "GR": "Anmeldung"
+        },
+        {
+          "@code": "exit",
+          "TR": "Çıkış",
+          "EN": "Exit",
+          "GR": "Ausgang",
+          "AR": "خروج"
+        },
+        {
+          "@code": "updatesentence1",
+          "TR": "Hasta Listesi Güncelleniyor",
+          "EN": "Updating Patient List",
+          "GR": "Patientenliste aktualisieren"
+        },
+        {
+          "@code": "loggingon",
+          "TR": "Giriş Yapılıyor",
+          "EN": "Logging On",
+          "GR": "Einloggen"
+        },
+        {
+          "@code": "settings",
+          "TR": "Ayarlar",
+          "EN": "Settings",
+          "GR": "die Einstellungen",
+          "AR": "إعدادات"
+        },
+        {
+          "@code": "forward",
+          "TR": "İleri",
+          "EN": "Forward",
+          "GR": "Nach vorne"
+        },
+        {
+          "@code": "browse",
+          "TR": "Klasör Seç",
+          "EN": "Browse",
+          "GR": "Durchsuche"
+        },
+        {
+          "@code": "reportlocation",
+          "TR": "Rapor Konumu",
+          "EN": "Report Location",
+          "GR": "Berichtsstandort"
+        },
+        {
+          "@code": "gamesounds",
+          "TR": "Oyun Sesleri",
+          "EN": "Game Sounds",
+          "GR": "Spielgeräusche"
+        },
+        {
+          "@code": "open",
+          "TR": "Açık",
+          "EN": "Open",
+          "GR": "Öffnen"
+        },
+        {
+          "@code": "closed",
+          "TR": "Kapalı",
+          "EN": "Closed",
+          "GR": "Geschlossen"
+        },
+        {
+          "@code": "save",
+          "TR": "Kaydet",
+          "EN": "Save",
+          "GR": "sparen"
+        },
+        {
+          "@code": "warning",
+          "TR": "Uyarı",
+          "EN": "Warning",
+          "GR": "Warnung"
+        },
+        {
+          "@code": "ok",
+          "TR": "Tamam",
+          "EN": "Ok",
+          "GR": "OK",
+          "AR": "موافق"
+        },
+        {
+          "@code": "languageinfo",
+          "TR": "Dil Bilgisi",
+          "EN": "Language Information",
+          "GR": "Sprachinformationen"
+        },
+        {
+          "@code": "currentlanguage",
+          "TR": "Seçili Dil",
+          "EN": "Current Language",
+          "GR": "Aktuelle Sprache"
+        },
+        {
+          "@code": "update",
+          "TR": "Güncelle",
+          "EN": "Update",
+          "GR": "Aktualisieren"
+        },
+        {
+          "@code": "updatesentence2",
+          "TR": "Dil Paketleri Güncelleniyor",
+          "EN": "Updating Language Packages",
+          "GR": "Sprachpakete aktualisieren"
+        },
+        {
+          "@code": "info",
+          "TR": "Bilgi",
+          "EN": "Information",
+          "GR": "Information"
+        },
+        {
+          "@code": "slogan",
+          "TR": "Herkes için ulaşılabilir fizyoterapi",
+          "EN": "Physiotherapy accessible to everyone",
+          "GR": "Physiotherapie für jedermann zugänglich"
+        },
+        {
+          "@code": "errorsentence1",
+          "TR": "Güncelleştirme yapılırken hata oluştu.Lütfen tekrar deneyiniz.",
+          "EN": "An error occurred while updating.Please try again.",
+          "GR": "Beim Aktualisieren ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+        },
+        {
+          "@code": "infosentence1",
+          "TR": "Güncelleştirme başarıyla tamamlandı.",
+          "EN": "Update was completed successfully.",
+          "GR": "Das Update wurde erfolgreich abgeschlossen."
+        },
+        {
+          "@code": "infosentence2",
+          "TR": "İnternet bağlantınız yavaş. Lütfen daha sonra tekrar deneyiniz.",
+          "EN": "Your internet connection is slow. Please try again later.",
+          "GR": "Ihre Internetverbindung ist langsam. Bitte versuchen Sie es später erneut."
+        },
+        {
+          "@code": "errorsentence2",
+          "TR": "Server ile bağlantı kurulamıyor.",
+          "EN": "Unable to connect to server.",
+          "GR": "Serververbindung konnte nicht hergestellt werden.",
+          "AR": "غير قادر على الإتصال بخادم الشبكة"
+        },
+        {
+          "@code": "errorsentence3",
+          "TR": "İnternet bağlantınızı kontrol ediniz.",
+          "EN": "Please check your internet connection.",
+          "GR": "Bitte überprüfe deine Internetverbindung.",
+          "AR": "الرجاء التحقق من اتصال الانترنت الخاص بك"
+        },
+        {
+          "@code": "errorsentence4",
+          "TR": "Kullanıcı adı veya şifre hatalı",
+          "EN": "User name or password is incorrect.",
+          "GR": "Benutzername oder Passwort ist falsch.",
+          "AR": "اسم المستخدم أو كلمة المرور غير صحيحة"
+        },
+        {
+          "@code": "errorsentence5",
+          "TR": "Sisteminiz tanımlı değil.",
+          "EN": "Your system is not defined.",
+          "GR": "Ihr System ist nicht definiert."
+        },
+        {
+          "@code": "errorsentence6",
+          "TR": "Sistemde böyle bir oyun kaydı bulunmamaktadır.",
+          "EN": "There is no record of such a game system.",
+          "GR": "Es gibt keine Aufzeichnung eines solchen Spielsystems."
+        },
+        {
+          "@code": "errorsentence7",
+          "TR": "Kullanıcı adı veya şifre bilgisi gönderilmemiştir.",
+          "EN": "Username or password information was not sent.",
+          "GR": "Benutzername oder Passwort wurden nicht gesendet."
+        },
+        {
+          "@code": "errorsentence8",
+          "TR": "Kullanıcı onaylı değil.",
+          "EN": "The user is not approved.",
+          "GR": "Der Benutzer ist nicht genehmigt."
+        },
+        {
+          "@code": "errorsentence9",
+          "TR": "Lisans süresi doldu.",
+          "EN": "License expired.",
+          "GR": "Lizenz abgelaufen."
+        },
+        {
+          "@code": "error1",
+          "TR": "Giriş Hatası.",
+          "EN": "Login Error.",
+          "GR": "Login Fehler."
+        },
+        {
+          "@code": "startmeasure",
+          "TR": "Ölçüme Başla",
+          "EN": "Start Measure",
+          "GR": "Messung starten"
+        },
+        {
+          "@code": "finishmeasure",
+          "TR": "Ölçümü Bitir",
+          "EN": "Finish Measure",
+          "GR": "Messung beenden"
+        },
+        {
+          "@code": "lefthand",
+          "TR": "Sol El",
+          "EN": "Left Hand",
+          "GR": "Linke Hand"
+        },
+        {
+          "@code": "righthand",
+          "TR": "Sağ El",
+          "EN": "Right Hand",
+          "GR": "Rechte Hand"
+        },
+        {
+          "@code": "repeatmeasurecount",
+          "TR": "Ölçüm Tekrar Sayısı",
+          "EN": "Repeat Measurement Count",
+          "GR": "Wiederholen Sie die Messung"
+        },
+        {
+          "@code": "name",
+          "TR": "İsim",
+          "EN": "Name",
+          "GR": "Name"
+        },
+        {
+          "@code": "surname",
+          "TR": "Soyİsim",
+          "EN": "SurName",
+          "GR": "Nachname"
+        },
+        {
+          "@code": "age",
+          "TR": "Yaş",
+          "EN": "Age",
+          "GR": "Alter"
+        },
+        {
+          "@code": "expert",
+          "TR": "Uzman",
+          "EN": "Expert",
+          "GR": "Experte"
+        },
+        {
+          "@code": "email",
+          "TR": "E-Posta",
+          "EN": "E-Mail",
+          "GR": "Email"
+        },
+        {
+          "@code": "measurement",
+          "TR": "Ölçüm",
+          "EN": "Measurement",
+          "GR": "Messung"
+        },
+        {
+          "@code": "left",
+          "TR": "Sol",
+          "EN": "Left",
+          "GR": "Links"
+        },
+        {
+          "@code": "right",
+          "TR": "Sağ",
+          "EN": "Right",
+          "GR": "Recht"
+        },
+        {
+          "@code": "flexion",
+          "TR": "Fleksiyon",
+          "EN": "Flexion",
+          "GR": "Beugung"
+        },
+        {
+          "@code": "extansion",
+          "TR": "Ekstansiyon",
+          "EN": "Extansion",
+          "GR": "Erweiterung"
+        },
+        {
+          "@code": "wrist",
+          "TR": "Bilek",
+          "EN": "Wrist",
+          "GR": "Handgelenk"
+        },
+        {
+          "@code": "handwrist",
+          "TR": "El Bileği",
+          "EN": "Hand Wrist",
+          "GR": "Handgelenk"
+        },
+        {
+          "@code": "radial",
+          "TR": "Radyal",
+          "EN": "Radial",
+          "GR": "Radial"
+        },
+        {
+          "@code": "ulnar",
+          "TR": "Ulnar",
+          "EN": "Ulnar",
+          "GR": "Ulnar"
+        },
+        {
+          "@code": "pronation",
+          "TR": "Pronasyon",
+          "EN": "Pronation",
+          "GR": "Pronation"
+        },
+        {
+          "@code": "supination",
+          "TR": "Supinasyon",
+          "EN": "Supination",
+          "GR": "Supination"
+        },
+        {
+          "@code": "firstfinger",
+          "TR": "1. Parmak",
+          "EN": "1st Finger",
+          "GR": "1. Finger"
+        },
+        {
+          "@code": "secondfinger",
+          "TR": "2. Parmak",
+          "EN": "2nd Finger",
+          "GR": "2. Finger"
+        },
+        {
+          "@code": "thirdfinger",
+          "TR": "3. Parmak",
+          "EN": "3rd Finger",
+          "GR": "3. Finger"
+        },
+        {
+          "@code": "fourthfinger",
+          "TR": "4. Parmak",
+          "EN": "4th Finger",
+          "GR": "4. Finger"
+        },
+        {
+          "@code": "fifthfinger",
+          "TR": "5. Parmak",
+          "EN": "5th Finger",
+          "GR": "5. Finger"
+        },
+        {
+          "@code": "mcp",
+          "TR": "MKF",
+          "EN": "MCP",
+          "GR": "MCP"
+        },
+        {
+          "@code": "pip",
+          "TR": "PİF",
+          "EN": "PIP",
+          "GR": "PIP"
+        },
+        {
+          "@code": "dip",
+          "TR": "DİF",
+          "EN": "DIP",
+          "GR": "TAUCHEN"
+        },
+        {
+          "@code": "handwristflexion",
+          "TR": "El Bileği Fleksiyon",
+          "EN": "Hand Wrist Flexion",
+          "GR": "Handgelenksbeugung"
+        },
+        {
+          "@code": "handwristextansion",
+          "TR": "El Bileği Ekstansiyon",
+          "EN": "Hand Wrist Extansion",
+          "GR": "Handgelenksverlängerung"
+        },
+        {
+          "@code": "handwristulnar",
+          "TR": "El Bileği Ulnar",
+          "EN": "Hand Wrist Ulnar",
+          "GR": "Handgelenk Ulnar"
+        },
+        {
+          "@code": "handwristradial",
+          "TR": "El Bileği Radyal",
+          "EN": "Hand Wrist Radial",
+          "GR": "Handgelenk-Radial"
+        },
+        {
+          "@code": "handwristpronation",
+          "TR": "El Bileği Pronasyon",
+          "EN": "Hand Wrist Pronation",
+          "GR": "Handgelenk-Pronation"
+        },
+        {
+          "@code": "handwristsupination",
+          "TR": "El Bileği Supinasyon",
+          "EN": "Hand Wrist Supination",
+          "GR": "Handgelenks-Supination"
+        },
+        {
+          "@code": "firstfingerflexion",
+          "TR": "1. Parmak Fleksiyon",
+          "EN": "1st Finger Flexion",
+          "GR": "1. Finger Flexion"
+        },
+        {
+          "@code": "firstfingerextansion",
+          "TR": "1. Parmak Ekstansiyon",
+          "EN": "1st Finger Extansion",
+          "GR": "1. Fingererweiterung"
+        },
+        {
+          "@code": "secondfingerflexion",
+          "TR": "2. Parmak Fleksiyon",
+          "EN": "2nd Finger Flexion",
+          "GR": "2. Finger Flexion"
+        },
+        {
+          "@code": "secondfingerextansion",
+          "TR": "2. Parmak Ekstansiyon",
+          "EN": "2nd Finger Extansion",
+          "GR": "2. Fingererweiterung"
+        },
+        {
+          "@code": "thirdfingerflexion",
+          "TR": "3. Parmak Fleksiyon",
+          "EN": "3rd Finger Flexion",
+          "GR": "3. Finger Flexion"
+        },
+        {
+          "@code": "thirdfingerextansion",
+          "TR": "3. Parmak Ekstansiyon",
+          "EN": "3rd Finger Extansion",
+          "GR": "3. Finger-Erweiterung"
+        },
+        {
+          "@code": "fourthfingerflexion",
+          "TR": "4. Parmak Fleksiyon",
+          "EN": "4th Finger Flexion",
+          "GR": "4. Finger Flexion"
+        },
+        {
+          "@code": "fourthfingerextansion",
+          "TR": "4. Parmak Ekstansiyon",
+          "EN": "4th Finger Extansion",
+          "GR": "4. Fingererweiterung"
+        },
+        {
+          "@code": "fifthfingerflexion",
+          "TR": "5. Parmak Fleksiyon",
+          "EN": "5th Finger Flexion",
+          "GR": "5. Finger Flexion"
+        },
+        {
+          "@code": "fifthfingerextansion",
+          "TR": "5. Parmak Ekstansiyon",
+          "EN": "5th Finger Extansion",
+          "GR": "5. Fingererweiterung"
+        },
+        {
+          "@code": "fourfingerflexion",
+          "TR": "4 Parmak Fleksiyon",
+          "EN": "4 Fingers Flexion",
+          "GR": "4 Finger Flexion"
+        },
+        {
+          "@code": "fourfingerextansion",
+          "TR": "4 Parmak Ekstansiyon",
+          "EN": "4 Fingers Extansion",
+          "GR": "4 Finger Erweiterung"
+        },
+        {
+          "@code": "allfingersflexion",
+          "TR": "Tüm Parmaklar Fleksiyon",
+          "EN": "All Fingers Flexion",
+          "GR": "Alle Finger Flexion"
+        },
+        {
+          "@code": "allfingersextansion",
+          "TR": "Tüm Parmaklar Ekstansiyon",
+          "EN": "All Fingers Extansion",
+          "GR": "Alle Finger Erweiterung"
+        },
+        {
+          "@code": "allmeasures",
+          "TR": "Tüm Ölçümler",
+          "EN": "All Measurements",
+          "GR": "Alle Messungen"
+        },
+        {
+          "@code": "nomeasure",
+          "TR": "Ölçüm Yok",
+          "EN": "No Measurement",
+          "GR": "Keine Messung"
+        },
+        {
+          "@code": "startfirstmeasure",
+          "TR": "1. Ölçüme Başla",
+          "EN": "Start The 1st Measurement",
+          "GR": "Starten Sie die 1. Messung"
+        },
+        {
+          "@code": "startsecondmeasure",
+          "TR": "2. Ölçüme Başla",
+          "EN": "Start The 2nd Measurement",
+          "GR": "Starten Sie die 2. Messung"
+        },
+        {
+          "@code": "startthirdmeasure",
+          "TR": "3. Ölçüme Başla",
+          "EN": "Start The 3rd Measurement",
+          "GR": "Starten Sie die 3. Messung"
+        },
+        {
+          "@code": "startfourthmeasure",
+          "TR": "4. Ölçüme Başla",
+          "EN": "Start The 4th Measurement",
+          "GR": "Starten Sie die 4. Messung"
+        },
+        {
+          "@code": "startfifthmeasure",
+          "TR": "5. Ölçüme Başla",
+          "EN": "Start The 5th Measurement",
+          "GR": "Starten Sie die 5. Messung"
+        },
+        {
+          "@code": "finishfirstmeasure",
+          "TR": "1. Ölçümü Bitir",
+          "EN": "Finish The 1st Measurement",
+          "GR": "Beenden Sie die 1. Messung"
+        },
+        {
+          "@code": "finishsecondmeasure",
+          "TR": "2. Ölçümü Bitir",
+          "EN": "Finish The 2nd Measurement",
+          "GR": "Beenden Sie die 2. Messung"
+        },
+        {
+          "@code": "finishthirdmeasure",
+          "TR": "3. Ölçümü Bitir",
+          "EN": "Finish The 3rd Measurement",
+          "GR": "Beenden Sie die 3. Messung"
+        },
+        {
+          "@code": "finishfourthmeasure",
+          "TR": "4. Ölçümü Bitir",
+          "EN": "Finish The 4th Measurement",
+          "GR": "Beenden Sie die 4. Messung"
+        },
+        {
+          "@code": "finishfifthmeasure",
+          "TR": "5. Ölçümü Bitir",
+          "EN": "Finish The 5th Measurement",
+          "GR": "Beenden Sie die 5. Messung"
+        },
+        {
+          "@code": "options",
+          "TR": "Seçenekler",
+          "EN": "Options",
+          "GR": "Optionen",
+          "AR": "الخيارات"
+        },
+        {
+          "@code": "gametime",
+          "TR": "Oyun Süresi",
+          "EN": "Time",
+          "GR": "Spielzeit",
+          "AR": "مدة اللعبة"
+        },
+        {
+          "@code": "startlevel",
+          "TR": "Başlangıç Seviyesi",
+          "EN": "Start Level",
+          "GR": "Startebene"
+        },
+        {
+          "@code": "handselect",
+          "TR": "El Seçimi",
+          "EN": "Hand Select",
+          "GR": "Hand auswählen"
+        },
+        {
+          "@code": "minute",
+          "TR": "Dakika",
+          "EN": "Minute",
+          "GR": "Minute"
+        },
+        {
+          "@code": "level",
+          "TR": "Seviye",
+          "EN": "Level",
+          "GR": "Niveau",
+          "AR": "المستوى"
+        },
+        {
+          "@code": "point",
+          "TR": "Puan",
+          "EN": "Point",
+          "GR": "Punkt",
+          "AR": "النقاط"
+        },
+        {
+          "@code": "doublehand",
+          "TR": "Çift El",
+          "EN": "Double Hand",
+          "GR": "Doppelte Hand"
+        },
+        {
+          "@code": "instantbalancecenters",
+          "TR": "Anlık Ağırlık Merkezleri",
+          "EN": "Instant Weight Centers",
+          "GR": "Sofortgewicht-Zentren"
+        },
+        {
+          "@code": "second",
+          "TR": "Saniye",
+          "EN": "Second",
+          "GR": "Zweite"
+        },
+        {
+          "@code": "application",
+          "TR": "Uygulama",
+          "EN": "Application",
+          "GR": "Anwendung"
+        },
+        {
+          "@code": "namesurname",
+          "TR": "Ad Soyad",
+          "EN": "Name Surname",
+          "GR": "Vorname Familienname"
+        },
+        {
+          "@code": "weight",
+          "TR": "Ağırlık",
+          "EN": "Weight",
+          "GR": "Gewicht"
+        },
+        {
+          "@code": "datas",
+          "TR": "Veriler",
+          "EN": "Datas",
+          "GR": "Datas"
+        },
+        {
+          "@code": "doublefoot",
+          "TR": "Çift Ayak",
+          "EN": "Double Foot",
+          "GR": "Doppelter Fuß"
+        },
+        {
+          "@code": "rightfoot",
+          "TR": "Sağ Ayak",
+          "EN": "Right Foot",
+          "GR": "Rechter Fuß"
+        },
+        {
+          "@code": "leftfoot",
+          "TR": "Sol Ayak",
+          "EN": "Left Foot",
+          "GR": "Linker Fuß"
+        },
+        {
+          "@code": "seated",
+          "TR": "Oturarak",
+          "EN": "Seated",
+          "GR": "Sitzt"
+        },
+        {
+          "@code": "markedmeasurement",
+          "TR": "İmgeli Ölçüm",
+          "EN": "Marked Measurement",
+          "GR": "Markierte Messung"
+        },
+        {
+          "@code": "unmarkedmeasurement",
+          "TR": "İmgesiz Ölçüm",
+          "EN": "Unmarked Measurement",
+          "GR": "Nicht markierte Messung"
+        },
+        {
+          "@code": "distanceofmotion",
+          "TR": "Hareket Mesafesi",
+          "EN": "Distance of Motion",
+          "GR": "Bewegungsabstand"
+        },
+        {
+          "@code": "time",
+          "TR": "Süre",
+          "EN": "Time",
+          "GR": "Zeit",
+          "AR": "المدة"
+        },
+        {
+          "@code": "performance",
+          "TR": "Performans",
+          "EN": "Performance",
+          "GR": "Performance"
+        },
+        {
+          "@code": "generalcenterofbalance",
+          "TR": "Genel Ağırlık Merkezi",
+          "EN": "Overall Center of Weight",
+          "GR": "Gesamtpunkt des Gewichts"
+        },
+        {
+          "@code": "topleft",
+          "TR": "Sol Üst",
+          "EN": "Top Left",
+          "GR": "Oben links"
+        },
+        {
+          "@code": "topright",
+          "TR": "Sağ Üst",
+          "EN": "Top Right",
+          "GR": "Oben rechts"
+        },
+        {
+          "@code": "bottomleft",
+          "TR": "Sol Alt",
+          "EN": "Bottom Left",
+          "GR": "Unten links"
+        },
+        {
+          "@code": "bottomright",
+          "TR": "Sağ Alt",
+          "EN": "Bottom Right",
+          "GR": "Unten rechts"
+        },
+        {
+          "@code": "instantmotions",
+          "TR": "Anlık Hareketler",
+          "EN": "Instant Motions",
+          "GR": "Sofortbewegungen"
+        },
+        {
+          "@code": "valueofcoordinate",
+          "TR": "Koordinat Değeri",
+          "EN": "Value of Coordinate",
+          "GR": "Wert der Koordinate"
+        },
+        {
+          "@code": "instantcenterofbalancechanges",
+          "TR": "Anlık Ağırlık Merkezi Değişimi",
+          "EN": "Instant Center of Weight Changes",
+          "GR": "Sofortige Gewichtsmitteländerung"
+        },
+        {
+          "@code": "allrightreserved",
+          "TR": "Tüm Hakları Saklıdır",
+          "EN": "All Right Reserved",
+          "GR": "Alle Rechte vorbehalten"
+        },
+        {
+          "@code": "measurementtime",
+          "TR": "Ölçüm Süresi",
+          "EN": "Measurement Time",
+          "GR": "Messzeit"
+        },
+        {
+          "@code": "measurementdate",
+          "TR": "Ölçüm Tarihi",
+          "EN": "Measurement Date",
+          "GR": "Messdatum"
+        },
+        {
+          "@code": "wristmeasurement",
+          "TR": "Bilek Ölçümü",
+          "EN": "Wrist measurement",
+          "GR": "Handgelenksmessung"
+        },
+        {
+          "@code": "maximum",
+          "TR": "Maksimum",
+          "EN": "Maximum",
+          "GR": "Maximal"
+        },
+        {
+          "@code": "yes",
+          "TR": "Evet",
+          "EN": "Yes",
+          "GR": "Ja"
+        },
+        {
+          "@code": "angularspeed",
+          "TR": "Açısal Hız",
+          "EN": "Angular Speed",
+          "GR": "Winkelgeschwindigkeit"
+        },
+        {
+          "@code": "no",
+          "TR": "Hayır",
+          "EN": "No",
+          "GR": "Nein"
+        },
+        {
+          "@code": "fingermeasurement",
+          "TR": "Parmak Ölçümü",
+          "EN": "Finger Measurement",
+          "GR": "Fingermessung"
+        },
+        {
+          "@code": "deviation",
+          "TR": "Sapma",
+          "EN": "Deviation",
+          "GR": "Abweichung"
+        },
+        {
+          "@code": "degree",
+          "TR": "Derece",
+          "EN": "Degree",
+          "GR": "Grad"
+        },
+        {
+          "@code": "fingers",
+          "TR": "Parmaklar",
+          "EN": "Fingers",
+          "GR": "Finger"
+        },
+        {
+          "@code": "infosentence3",
+          "TR": "Çıkmak istediğinize emin misiniz?",
+          "EN": "Are you sure you want to exit?",
+          "GR": "Sie sind sicher, dass Sie beenden wollen?"
+        },
+        {
+          "@code": "infosentence4",
+          "TR": "Rapor en kısa sürede hazır olacaktır.",
+          "EN": "Report will be ready soon.",
+          "GR": "Der Bericht wird bald fertig sein."
+        },
+        {
+          "@code": "infosentence5",
+          "TR": "Henüz ölçüm yapılmamıştır.",
+          "EN": "There is no measurement yet.",
+          "GR": "Es gibt noch keine Messung."
+        },
+        {
+          "@code": "infosentence6",
+          "TR": "Öncelikle ölçümü bitirmelisiniz.",
+          "EN": "You have to finish the measurement first.",
+          "GR": "Sie müssen die Messung zuerst beenden."
+        },
+        {
+          "@code": "elbowangle",
+          "TR": "Dirsek Açısı",
+          "EN": "Elbow Angle",
+          "GR": "Ellenbogenwinkel"
+        },
+        {
+          "@code": "shoulderangle",
+          "TR": "Omuz Açısı",
+          "EN": "Shoulder Angle",
+          "GR": "Schulterwinkel"
+        },
+        {
+          "@code": "play",
+          "TR": "Play",
+          "EN": "Play",
+          "GR": "abspielen"
+        },
+        {
+          "@code": "sec",
+          "TR": "sn",
+          "EN": "sec",
+          "GR": "sek"
+        },
+        {
+          "@code": "sounds",
+          "TR": "Sesler",
+          "EN": "Sounds",
+          "GR": "Geräusche",
+          "AR": "الاصوات"
+        },
+        {
+          "@code": "report",
+          "TR": "Rapor",
+          "EN": "Report",
+          "GR": "Bericht"
+        },
+        {
+          "@code": "pause",
+          "TR": "Durakla",
+          "EN": "Pause",
+          "GR": "Pause",
+          "AR": "إيقاف مؤقت"
+        },
+        {
+          "@code": "replay",
+          "TR": "Tekrar",
+          "EN": "Replay",
+          "GR": "Wiederholung",
+          "AR": "اعادة"
+        },
+        {
+          "@code": "menu",
+          "TR": "Menü",
+          "EN": "Menu",
+          "GR": "Speisekarte"
+        },
+        {
+          "@code": "score",
+          "TR": "Puan",
+          "EN": "Score",
+          "GR": "Ergebnis",
+          "AR": "النقاط"
+        },
+        {
+          "@code": "timeisover",
+          "TR": "Süre bitti!",
+          "EN": "Time is over!",
+          "GR": "Die Zeit ist um!",
+          "AR": "انتهت اللعبة!"
+        },
+        {
+          "@code": "remainingtime",
+          "TR": "Kalan süre",
+          "EN": "Remaining time",
+          "GR": "Verbleibende Zeit",
+          "AR": "الوقت المتبقي"
+        },
+        {
+          "@code": "completed",
+          "TR": "Tamamlandı",
+          "EN": "Completed",
+          "GR": "Abgeschlossen",
+          "AR": "مكتمل"
+        },
+        {
+          "@code": "next",
+          "TR": "Sonraki",
+          "EN": "Next",
+          "GR": "Nächster"
+        },
+        {
+          "@code": "motionselection",
+          "TR": "Hareket Seçimi",
+          "EN": "Motion Selection",
+          "GR": "Bewegungsauswahl"
+        },
+        {
+          "@code": "waitingtime",
+          "TR": "Bekleme Süresi",
+          "EN": "Waiting Time",
+          "GR": "Wartezeit"
+        },
+        {
+          "@code": "measurements",
+          "TR": "Ölçümler",
+          "EN": "Measurements",
+          "GR": "Messungen"
+        },
+        {
+          "@code": "kg",
+          "TR": "Kg",
+          "EN": "Kg",
+          "GR": "Kg"
+        },
+        {
+          "@code": "motionselect",
+          "TR": "Hareket Seçimi",
+          "EN": "Motion Selection",
+          "GR": "Bewegungsauswahl"
+        },
+        {
+          "@code": "showorhidedata",
+          "TR": "Verileri Göster/Gizle",
+          "EN": "Show/Hide Datas",
+          "GR": "Daten anzeigen / ausblenden"
+        },
+        {
+          "@code": "cleardata",
+          "TR": "Verileri Temizle",
+          "EN": "Clear Datas",
+          "GR": "Daten löschen"
+        },
+        {
+          "@code": "mainmenu",
+          "TR": "Ana Menü",
+          "EN": "Main Menu",
+          "GR": "Hauptmenü"
+        },
+        {
+          "@code": "close",
+          "TR": "Kapat",
+          "EN": "Close",
+          "GR": "Schließen"
+        },
+        {
+          "@code": "symmetryview",
+          "TR": "Simetri Görünüm",
+          "EN": "Symmetric View",
+          "GR": "Symmetrische Ansicht"
+        },
+        {
+          "@code": "min",
+          "TR": "dk",
+          "EN": "min",
+          "GR": "Mindest"
+        },
+        {
+          "@code": "congratulations",
+          "TR": "Tebrikler",
+          "EN": "Congratulations",
+          "GR": "Herzliche Glückwünsche",
+          "AR": "تهانئ"
+        },
+        {
+          "@code": "infosentence7",
+          "TR": "Oyunu tamamladınız",
+          "EN": "You have completed the game",
+          "GR": "Du hast das Spiel beendet"
+        },
+        {
+          "@code": "playagain",
+          "TR": "Yeniden Oyna",
+          "EN": "Play Again",
+          "GR": "Spiel nochmal",
+          "AR": "اعادة اللعبة"
+        },
+        {
+          "@code": "infosentence8",
+          "TR": "Yukarıdaki daire ölçüm kalitesini göstermektedir. Dairenin YEŞİL renkte olmadığı zamanlarda ölçüm yapmayınız.",
+          "EN": "The circle above shows the quality of measurement. Please do not perform measurement when the circle is NOT GREEN.",
+          "GR": "Der Kreis oben zeigt die Qualität der Messung. Bitte führen Sie keine Messungen durch, wenn der Kreis NICHT GRÜN ist."
+        },
+        {
+          "@code": "infosentence9",
+          "TR": "SPACE tuşu ile Ölçüm Sonuç Panelini açıp kapatabilirsiniz.",
+          "EN": "Use SPACE KEY to open/close the measurement result panel.",
+          "GR": "Verwenden Sie die LEERTASTE, um das Messergebnisfeld zu öffnen / schließen."
+        },
+        {
+          "@code": "infosentence10",
+          "TR": "Kaydet butonu ile ölçümü sonlandırıp ana menüye dönebilirsiniz.",
+          "EN": "Use Save button to finish the measurement and return to the main menu.",
+          "GR": "Verwenden Sie die Schaltfläche Speichern, um die Messung zu beenden und zum Hauptmenü zurückzukehren."
+        },
+        {
+          "@code": "infosentence11",
+          "TR": "Sol panelden hangi el için ölçüm yapılacağını seçiniz.",
+          "EN": "Select the hand type (right/left) from the left panel.",
+          "GR": "Wählen Sie den Handtyp (rechts / links) aus dem linken Feld aus."
+        },
+        {
+          "@code": "infosentence12",
+          "TR": "Sol panelden yapılacak ölçümü seçiniz.",
+          "EN": "Select measurement type from the left panel.",
+          "GR": "Wählen Sie den Messtyp im linken Feld aus."
+        },
+        {
+          "@code": "infosentence13",
+          "TR": "Kullanıcı elini ölçüm yapılması beklenen konuma getirdiğinde [Ölçüme Başla] tuşuna basınız.",
+          "EN": "Please press Start Measure button when the user puts his/her hand to the expected position",
+          "GR": "Drücken Sie bitte die Starttaste, wenn der Benutzer seine Hand in die erwartete Position bringt"
+        },
+        {
+          "@code": "infosentence14",
+          "TR": "Arka arkaya dilediğiniz kadar ölçüm yapabilirsiniz.",
+          "EN": "You may perform several measurements sequentially.",
+          "GR": "Sie können mehrere Messungen nacheinander durchführen."
+        },
+        {
+          "@code": "infosentence15",
+          "TR": "Tüm ölçüm sonuçlarını Ölçüm Sonuç Panelini açarak görebilirsiniz.",
+          "EN": "The measurement results are shown in the measurement results panel.",
+          "GR": "Die Messergebnisse werden im Messergebnisfeld angezeigt."
+        },
+        {
+          "@code": "usage",
+          "TR": "Kullanım",
+          "EN": "Usage",
+          "GR": "Verwendungszweck"
+        },
+        {
+          "@code": "marked",
+          "TR": "İmgeli",
+          "EN": "Marked",
+          "GR": "Markiert"
+        },
+        {
+          "@code": "unmarked",
+          "TR": "İmgesiz",
+          "EN": "Unmarked",
+          "GR": "Nicht markiert"
+        },
+        {
+          "@code": "pleasewaitforreport",
+          "TR": "Rapor oluşturulurken lütfen bekleyin...",
+          "EN": "Please wait while generating the report...",
+          "GR": "Bitte warten Sie, während Sie den Bericht erstellen ..."
+        },
+        {
+          "@code": "errorsentence10",
+          "TR": "Aygıtın düzgün bağlandığından emin olun ve uygulamayı tekrar başlatın.",
+          "EN": "Please make sure device is connected properly and launch the application again.",
+          "GR": "Stellen Sie sicher, dass das Gerät ordnungsgemäß angeschlossen ist, und starten Sie die Anwendung erneut."
+        },
+        {
+          "@code": "exittheapplication",
+          "TR": "Uygulamadan çıkın",
+          "EN": "Exit the application",
+          "GR": "Beenden Sie die Anwendung"
+        },
+        {
+          "@code": "errorsentence11",
+          "TR": "Ağırlık bilgisi alınamadı. Lütfen ölçümün sonuna kadar cihaz üzerinde kalınız. Süre dolduğunda ölçüm otomatik olarak tamamlanacaktır. Tekrar ölçüm yapmak ister misiniz?",
+          "EN": "Weight information could not be retrieved. Until the end of the measurement, please stay on the device . When the timer expires, the measurement will be completed automatically. Do you want to measure it again?",
+          "GR": "Gewichtsinformationen konnten nicht abgerufen werden. Bitte bleiben Sie bis zum Ende der Messung am Gerät. Wenn der Timer abläuft, wird die Messung automatisch abgeschlossen. Möchten Sie es noch einmal messen?"
+        },
+        {
+          "@code": "dearfriend",
+          "TR": "Sevgili Dostum",
+          "EN": "Dear My Friend",
+          "GR": "Mein lieber Freund"
+        },
+        {
+          "@code": "hit",
+          "TR": "Dokunma",
+          "EN": "Hit",
+          "GR": "Schlagen"
+        },
+        {
+          "@code": "miss",
+          "TR": "Iskalama",
+          "EN": "Miss",
+          "GR": "Fräulein"
+        },
+        {
+          "@code": "reset",
+          "TR": "Sıfırla",
+          "EN": "Reset",
+          "GR": "Zurücksetzen"
+        },
+        {
+          "@code": "retry",
+          "TR": "Yeniden Oyna",
+          "EN": "Retry",
+          "GR": "Wiederholen"
+        },
+        {
+          "@code": "nextlevel",
+          "TR": "Sonraki Seviye",
+          "EN": "Next Level",
+          "GR": "Nächste Ebene"
+        },
+        {
+          "@code": "capLevel1starthead",
+          "TR": "Sevgili Dostum",
+          "EN": "Dear My Friend",
+          "GR": "Mein lieber Freund"
+        },
+        {
+          "@code": "caplevel1startbody",
+          "TR": "Yaramaz tavşancıklarımı kaybettim. Onları ararken diğer tavşanlarıma göz kulak olmak ister misin ?",
+          "EN": "I have lost my naughty bunny. When searching for them, do you want to keep an eye on other rabbits?",
+          "GR": "Ich habe meinen unartigen Hasen verloren. Möchten Sie bei der Suche andere Kaninchen im Auge behalten?"
+        },
+        {
+          "@code": "caplevel2starthead",
+          "TR": "Yaramazlardan biri piramitler diyarında görülmüş.",
+          "EN": "One of the naughty have been seen in the land of the pyramids.",
+          "GR": "Einer der Unartigen wurde im Land der Pyramiden gesehen."
+        },
+        {
+          "@code": "caplevel2startbody",
+          "TR": "Başka bir yere gitmeden onu yakalamalıyım. Göz kulak olman gereken tavşancık sayısı üç oldu.",
+          "EN": "I need to catch him going elsewhere. The number of rabbit eye was supposed to be three.",
+          "GR": "Ich muss ihn anderswo erwischen. Die Anzahl der Kaninchenauge sollte drei betragen."
+        },
+        {
+          "@code": "caplevel3starthead",
+          "TR": "Bir sonraki durağımız İstanbul!",
+          "EN": "Our next stop is Istanbul!",
+          "GR": "Unser nächster Halt ist Istanbul!"
+        },
+        {
+          "@code": "caplevel3startbody",
+          "TR": "Dört Ufaklıkla başa çıkmak biraz zor olacak. Üstelik hiç yerlerinde durmuyorlar.",
+          "EN": "Four of coping with the little one will be a little difficult. Moreover, they do not stand in any place.",
+          "GR": "Vier davon, mit dem Kleinen fertig zu werden, wird ein wenig schwierig sein. Darüber hinaus stehen sie an keiner Stelle."
+        },
+        {
+          "@code": "caplevel4starthead",
+          "TR": "Sonunda ormanımızdayız.",
+          "EN": "We finally in our jungle.",
+          "GR": "Wir endlich in unserem Dschungel."
+        },
+        {
+          "@code": "caplevel4startbody",
+          "TR": "Yavrularıma yiyecek bulana kadar beş yaramaza bakmalısın.",
+          "EN": "Food until the puppies must be five naughty eye on.",
+          "GR": "Essen, bis die Welpen fünf Augen haben."
+        },
+        {
+          "@code": "caplevel1finishbody",
+          "TR": "İsmir maceramızı tamamladın.",
+          "EN": "You've completed our Izmir adventure.",
+          "GR": "Sie haben unser Izmir-Abenteuer abgeschlossen."
+        },
+        {
+          "@code": "caplevel2finishbody",
+          "TR": "Piramitler Diyarı maceramızı tamamladın.",
+          "EN": "You've completed our adventure land of the pyramids.",
+          "GR": "Sie haben unser Abenteuerland der Pyramiden abgeschlossen."
+        },
+        {
+          "@code": "caplevel3finishbody",
+          "TR": "İstanbul Maceramızı tamamladın.",
+          "EN": "You've completed our Istanbul adventure.",
+          "GR": "Sie haben unser Istanbul-Abenteuer abgeschlossen."
+        },
+        {
+          "@code": "caplevel4finishbody",
+          "TR": "Yardımlarını unutmayacağım.",
+          "EN": "I will never forget your support.",
+          "GR": "Ich werde deine Unterstützung nie vergessen."
+        },
+        {
+          "@code": "cm",
+          "TR": "cm",
+          "EN": "cm",
+          "GR": "cm"
+        },
+        {
+          "@code": "distanceofmotioncomment",
+          "TR": "Ölçüm sırasında elde edilen her bir ağırlık merkezinin, kendisinden bir önceki ağırlık merkezine olan uzaklığı baz alınıp her iki nokta arasındaki mesafe toplanarak hesaplanmıştır.",
+          "EN": "Distance of Motion : It is summation of the weight center with the distance with the previous balance center.",
+          "GR": "Bewegungsabstand: Es ist die Summe des Gewichtszentrums mit dem Abstand zum vorherigen Schwerpunkt."
+        },
+        {
+          "@code": "overallbalancecentercomment",
+          "TR": "Genel Ağırlık Merkezi : Sistemin koordinat düzleminde kişiye ait hesapladığı ağırlık merkezidir.",
+          "EN": "Overall weight center: It is subject's balance center according to the system coordinates in cm.",
+          "GR": "Gesamtgewicht Mitte: Es ist das Schwerpunktzentrum des Motivs gemäß den Systemkoordinaten in cm."
+        },
+        {
+          "@code": "areacomment",
+          "TR": "Sol Üst, Sol Alt, Sağ Üst, Sağ Alt : Ölçüm süresince bölgelerde geçirilen sürenin saniye ve yüzdelik değerleridir. Ayrıca her bölgeye düşen ağırlık bilgilerini içermektedir.",
+          "EN": "Left up, left down, right up, right down: It is the values of the measurement duration in seconds. It also includes weight per area.",
+          "GR": "Links oben, links unten, rechts oben, rechts unten: Dies sind die Werte der Messdauer in Sekunden. Es beinhaltet auch das Gewicht pro Fläche."
+        },
+        {
+          "@code": "coloringcomment1",
+          "TR": "Anlık Ağırlık Merkezleri Tablosu İçin Renklendirme : Anlık ağırlık merkezlerinin (0,0) noktasına olan uzaklığını referans alan bir renklendirme kullanılmaktadır.",
+          "EN": "Colouring for instant weight center table: Coloring is based on the distance from instant balace center to (0,0) point.",
+          "GR": "Farbgebung für die Sofortgewicht-Mitteltabelle: Die Farbgebung basiert auf der Entfernung von der Instant-Balace-Mitte zum (0,0) -Punkt."
+        },
+        {
+          "@code": "coloringcomment2",
+          "TR": "Hareket Grafiği İçin Renklendirme : Renk çubuğunun içerdiği aralık değerlerine eşit olacak şekilde grafik üzerinde renklendirme yapıldı.",
+          "EN": "Colouring for Movement Graphics: Graphics is coloured according to same gap values with colour bar.",
+          "GR": "Farbgebung für Bewegungsgrafiken: Grafiken werden gemäß den gleichen Lückenwerten mit der Farbleiste eingefärbt."
+        },
+        {
+          "@code": "motionname",
+          "TR": "Ölçüm Adı",
+          "EN": "Motion Name",
+          "GR": "Bewegungsname"
+        },
+        {
+          "@code": "gameover",
+          "TR": "Oyun Bitti!",
+          "EN": "Game Over!",
+          "GR": "Spiel ist aus!",
+          "AR": "انتهت اللعبة!"
+        },
+        {
+          "@code": "speed",
+          "TR": "Hız",
+          "EN": "Speed",
+          "GR": "Geschwindigkeit"
+        },
+        {
+          "@code": "goalscore",
+          "TR": "Hedef",
+          "EN": "Goal",
+          "GR": "Tor"
+        },
+        {
+          "@code": "health",
+          "TR": "Sağlık",
+          "EN": "Health",
+          "GR": "Gesundheit"
+        },
+        {
+          "@code": "eyesopen",
+          "TR": "Gözler Açık",
+          "EN": "Eyes Open",
+          "GR": "Geöffnete Augen"
+        },
+        {
+          "@code": "eyesclosed",
+          "TR": "Gözler Kapalı",
+          "EN": "Eyes Closed",
+          "GR": "Augen geschlossen"
+        },
+        {
+          "@code": "welcome",
+          "TR": "Hoşgeldiniz",
+          "EN": "Welcome",
+          "GR": "Herzlich willkommen"
+        },
+        {
+          "@code": "catlwl1_1",
+          "TR": "Tavşanlar ile oynamaya hazır mısın?",
+          "EN": "Are you ready for playing with rabbits?",
+          "GR": "Bist du bereit mit Kaninchen zu spielen?"
+        },
+        {
+          "@code": "catlwl1_2",
+          "TR": "Havyanları beslememe yardımcı olurmusun?",
+          "EN": "Can you help me feed the animals?",
+          "GR": "Kannst du mir helfen, die Tiere zu füttern?"
+        },
+        {
+          "@code": "catlwl1_3",
+          "TR": "Balığımın karnını doyurmama yardımcı olur musun?",
+          "EN": "Can you help me feed my fish's stomach?",
+          "GR": "Kannst du mir helfen, meinen Fisch zu füttern?"
+        },
+        {
+          "@code": "lwl",
+          "TR": "Level",
+          "EN": "Seviye",
+          "GR": "Niveau"
+        },
+        {
+          "@code": "optselection",
+          "TR": "Opsiyonel Seçim",
+          "EN": "Optional Selection",
+          "GR": "Optionale Auswahl"
+        },
+        {
+          "@code": "bilekkontrolacilar",
+          "TR": "Bilek Kontrol Açıları",
+          "EN": "Wrist Control Angles",
+          "GR": "Handgelenksteuerungswinkel"
+        },
+        {
+          "@code": "hedefpuan",
+          "TR": "Hedef",
+          "EN": "Goal",
+          "GR": "Zielwert",
+          "AR": "الهدف"
+        },
+        {
+          "@code": "seviyesec",
+          "TR": "Seviye Seçimi",
+          "EN": "Level Selection",
+          "GR": "Ebenenauswahl"
+        },
+        {
+          "@code": "arkaplanmzk",
+          "TR": "Arka Plan Müzikleri",
+          "EN": "Background Music",
+          "GR": "Hintergrundmusik"
+        },
+        {
+          "@code": "yonergeses",
+          "TR": "Yönerge Sesi",
+          "EN": "Instruction Voice",
+          "GR": "Instruction Voice"
+        },
+        {
+          "@code": "leftright",
+          "TR": "Sol ve Sağ",
+          "EN": "Left and Right",
+          "GR": "Links und rechts"
+        },
+        {
+          "@code": "helpbuttonn",
+          "TR": "Yardım için basınız",
+          "EN": "Press for help",
+          "GR": "Bitte um Hilfe"
+        },
+        {
+          "@code": "pressstart",
+          "TR": "Başlamak için tıklayınız",
+          "EN": "Press for start",
+          "GR": "Zum Starten drücken",
+          "AR": "انقر للبدء"
+        },
+        {
+          "@code": "successfull",
+          "TR": "Başarılı",
+          "EN": "Successful",
+          "GR": "Erfolgreich"
+        },
+        {
+          "@code": "Unsuccessful",
+          "TR": "Başarısız",
+          "EN": "Unsuccessful",
+          "GR": "Erfolglos"
+        },
+        {
+          "@code": "arm_selection",
+          "TR": "Kol Seçimi",
+          "EN": "Arm Selection",
+          "GR": "Armauswahl"
+        },
+        {
+          "@code": "sexchoice",
+          "TR": "Cinsiyet Seçimi",
+          "EN": "Gender Selection",
+          "GR": "Geschlecht Auswahl"
+        },
+        {
+          "@code": "male",
+          "TR": "Erkek",
+          "EN": "Male",
+          "GR": "Männlich"
+        },
+        {
+          "@code": "female",
+          "TR": "Kadın",
+          "EN": "Female",
+          "GR": "Weiblich"
+        },
+        {
+          "@code": "abduksiyon",
+          "TR": "Abduksiyon Açıları",
+          "EN": "Abduction",
+          "GR": "Entführung"
+        },
+        {
+          "@code": "minimum",
+          "TR": "Minimum",
+          "EN": "Minimum",
+          "GR": "Minimum"
+        },
+        {
+          "@code": "twoarms",
+          "TR": "İki Kol",
+          "EN": "Two Arms",
+          "GR": "Zwei Arme"
+        },
+        {
+          "@code": "failb",
+          "TR": "Kaçırılan Sayı",
+          "EN": "Fail",
+          "GR": "Scheitern"
+        },
+        {
+          "@code": "automatic",
+          "TR": "Otomatik",
+          "EN": "Automatic",
+          "GR": "Automatik"
+        },
+        {
+          "@code": "manual",
+          "TR": "Manuel",
+          "EN": "Manual",
+          "GR": "Handbuch"
+        },
+        {
+          "@code": "exchoice",
+          "TR": "Egzersiz Seçim",
+          "EN": "Exercise Choice",
+          "GR": "Übungswahl"
+        },
+        {
+          "@code": "doublehandd",
+          "TR": "Sağ ve Sol el",
+          "EN": "Right and Left hand",
+          "GR": "Rechte und linke Hand"
+        },
+        {
+          "@code": "onboardwarning",
+          "TR": "Oyuncu Balance Board Üzerinde Değil !",
+          "EN": "Player is not on the Balance Board!",
+          "GR": "Spieler ist nicht auf dem Balance Board!",
+          "AR": "اللاعب ليس على لوحة التوازن"
+        },
+        {
+          "@code": "gamecomp",
+          "TR": "Oyun Tamamlandı",
+          "EN": "Game completed",
+          "GR": "Spiel abgeschlossen"
+        },
+        {
+          "@code": "stageselection",
+          "TR": "Bölüm Seçimi",
+          "EN": "Stage Selection",
+          "GR": "Bühnenauswahl",
+          "AR": "اختيار المرحلة"
+        },
+        {
+          "@code": "playyy",
+          "TR": "Oyna",
+          "EN": "Play",
+          "GR": "abspielen"
+        },
+        {
+          "@code": "stagesct",
+          "TR": "Bölüm",
+          "EN": "Stage",
+          "GR": "Bühne",
+          "AR": "مرحلة"
+        },
+        {
+          "@code": "resumeee",
+          "TR": "Devam",
+          "EN": "Resume",
+          "GR": "Fortsetzen",
+          "AR": "مواصلة"
+        },
+        {
+          "@code": "kolayal",
+          "TR": "Topu Yakalamayı Kolaylaştır",
+          "EN": "Grab The Ball Easily",
+          "GR": "Schnappen Sie sich den Ball leicht"
+        },
+        {
+          "@code": "kavramaseviye",
+          "TR": "Kavrama Zorluk Seviyesi",
+          "EN": "Grip difficulty level",
+          "GR": "Schwierigkeitsgrad erfassen"
+        },
+        {
+          "@code": "eyetrackactive",
+          "TR": "Eye Tracking'i etkinleştir",
+          "EN": "Activate Eye Tracking",
+          "GR": "Aktivieren Sie Eye Tracking"
+        },
+        {
+          "@code": "handSelection",
+          "TR": "El Seçimi",
+          "EN": "Hand Selection",
+          "GR": "Handauswahl"
+        },
+        {
+          "@code": "angle",
+          "TR": "Açı",
+          "EN": "Angle",
+          "GR": "Winkel"
+        },
+        {
+          "@code": "posSelection",
+          "TR": "Pozisyon Seçimi",
+          "EN": "Position Selection",
+          "GR": "Positionsauswahl"
+        },
+        {
+          "@code": "normal",
+          "TR": "Normal",
+          "EN": "Normal",
+          "GR": "Normal"
+        },
+        {
+          "@code": "COPisOutOfBoard",
+          "TR": "Ağırlık Merkezi Platform Dışına Çıktı",
+          "EN": "Center of Pressure is out of the board",
+          "GR": "Der Druckmittelpunkt ist außerhalb des Boards"
+        },
+        {
+          "@code": "aciaralik",
+          "TR": "Açı Aralığı",
+          "EN": "Angle Range",
+          "GR": "Winkelbereich"
+        },
+        {
+          "@code": "prepraport",
+          "TR": "Rapor Oluştur",
+          "EN": "Report",
+          "GR": "Bericht"
+        },
+        {
+          "@code": "changeapp",
+          "TR": "Uygulamayı Değiştir",
+          "EN": "Change Application",
+          "GR": "Anwendung ändern"
+        },
+        {
+          "@code": "selectmeasure",
+          "TR": "Başlatılacak Uygulamayı Seçiniz",
+          "EN": "Please Select Application",
+          "GR": "Bitte wählen Sie Anwendung"
+        },
+        {
+          "@code": "savevideomeas",
+          "TR": "Ölçüm Videosunu Kaydet",
+          "EN": "Save Measurement Video",
+          "GR": "Messvideo speichern"
+        },
+        {
+          "@code": "headd",
+          "TR": "Baş",
+          "EN": "Head",
+          "GR": "Kopf"
+        },
+        {
+          "@code": "shoulderr",
+          "TR": "Omuz",
+          "EN": "Shoulder",
+          "GR": "Schulter"
+        },
+        {
+          "@code": "hipp",
+          "TR": "Kalça",
+          "EN": "Hip",
+          "GR": "Hüfte"
+        },
+        {
+          "@code": "personnfound",
+          "TR": "Kişi Bulunamadı",
+          "EN": "Person Could Not Found",
+          "GR": "Person konnte nicht gefunden werden"
+        },
+        {
+          "@code": "kneee",
+          "TR": "Diz",
+          "EN": "Knee",
+          "GR": "Knie"
+        },
+        {
+          "@code": "infosentence16",
+          "TR": "Testi tamamladınız",
+          "EN": "You have completed the test",
+          "GR": "Sie haben den Test abgeschlossen"
+        },
+        {
+          "@code": "OmuzFleksiyon",
+          "TR": "Omuz Fleksiyon",
+          "EN": "Shoulder Flexion",
+          "GR": "Schulterbeugung"
+        },
+        {
+          "@code": "OmuzEkstansiyon",
+          "TR": "Omuz Ekstansiyon",
+          "EN": "Shoulder Extension",
+          "GR": "Schulterverlängerung"
+        },
+        {
+          "@code": "OmuzHiperekstansiyon",
+          "TR": "Omuz Hiperekstansiyon",
+          "EN": "Shoulder Hypotension",
+          "GR": "Schulterhypotonie"
+        },
+        {
+          "@code": "OmuzAbdüksiyon",
+          "TR": "Omuz Abdüksiyon",
+          "EN": "Shoulder Abduction",
+          "GR": "Schulterentführung"
+        },
+        {
+          "@code": "OmuzAddüksiyon",
+          "TR": "Omuz Addüksiyon",
+          "EN": "Shoulder Adduction",
+          "GR": "Schulteradduktion"
+        },
+        {
+          "@code": "OmuzInternalRotasyonu",
+          "TR": "Omuz Internal Rotasyonu",
+          "EN": "Shoulder Internal Rotation",
+          "GR": "Schulterinnenrotation"
+        },
+        {
+          "@code": "OmuzExternalRotasyonu",
+          "TR": "Omuz External Rotasyonu",
+          "EN": "Shoulder External Rotation",
+          "GR": "Schulter-Außenrotation"
+        },
+        {
+          "@code": "DirsekEkstansiyon",
+          "TR": "Dirsek Ekstansiyon",
+          "EN": "Elbow Extension",
+          "GR": "Ellenbogenverlängerung"
+        },
+        {
+          "@code": "DirsekFleksiyon",
+          "TR": "Dirsek Fleksiyon",
+          "EN": "Elbow Flexion",
+          "GR": "Ellenbogenbeugung"
+        },
+        {
+          "@code": "KalçaEkstansiyon",
+          "TR": "Kalça Ekstansiyon",
+          "EN": "Hip Extension",
+          "GR": "Hüftverlängerung"
+        },
+        {
+          "@code": "KalçaFleksiyon",
+          "TR": "Kalça Fleksiyon",
+          "EN": "Hip Flexion",
+          "GR": "Hüftbeugung"
+        },
+        {
+          "@code": "KalçaHiperektansyion",
+          "TR": "Kalça Hiperektansyion",
+          "EN": "Hip Hyperextension",
+          "GR": "Hyperextension der Hüfte"
+        },
+        {
+          "@code": "KalçaAbdüksiyon",
+          "TR": "Kalça Abdüksiyon",
+          "EN": "Hip Abduction",
+          "GR": "Hüftentführung"
+        },
+        {
+          "@code": "KalçaAddüksiyon",
+          "TR": "Kalça Addüksiyon",
+          "EN": "Hip Adduction",
+          "GR": "Hüftadduktion"
+        },
+        {
+          "@code": "DizEkstansiyon",
+          "TR": "Diz Ekstansiyon",
+          "EN": "Knee Extension",
+          "GR": "Knieverlängerung"
+        },
+        {
+          "@code": "DizFleksiyon",
+          "TR": "Diz Fleksiyon",
+          "EN": "Knee Flexion",
+          "GR": "Kniebeugung"
+        },
+        {
+          "@code": "DizAbdüksiyon",
+          "TR": "Diz Abdüksiyon",
+          "EN": "Knee Abduction",
+          "GR": "Knie-Entführung"
+        },
+        {
+          "@code": "DizAddüksiyon",
+          "TR": "Diz Addüksiyon",
+          "EN": "Knee Adduction",
+          "GR": "Knie-Adduktion"
+        },
+        {
+          "@code": "ÖnPostur",
+          "TR": "Ön Postur",
+          "EN": "Front Posture",
+          "GR": "Vordere Haltung"
+        },
+        {
+          "@code": "ProfilPostur",
+          "TR": "Profil Postur",
+          "EN": "Profile Posture",
+          "GR": "Profilhaltung"
+        },
+        {
+          "@code": "PosturSağ",
+          "TR": "Postur Sağ",
+          "EN": "Right Posture",
+          "GR": "Richtige Haltung"
+        },
+        {
+          "@code": "PosturSol",
+          "TR": "Postur Sol",
+          "EN": "Left Posture",
+          "GR": "Linke Haltung"
+        },
+        {
+          "@code": "Sag",
+          "TR": "Sağ",
+          "EN": "Right",
+          "GR": "Recht"
+        },
+        {
+          "@code": "Sol",
+          "TR": "Sol",
+          "EN": "Left",
+          "GR": "Links"
+        },
+        {
+          "@code": "Anlık",
+          "TR": "Anlık",
+          "EN": "Instant",
+          "GR": "Sofortig"
+        },
+        {
+          "@code": "EnYuksekDeger",
+          "TR": "En yüksek değer",
+          "EN": "Highest value",
+          "GR": "Höchster Wert"
+        },
+        {
+          "@code": "wantToFinishMeasuring",
+          "TR": "Ölçümü bitirmek istiyor musunuz?",
+          "EN": "Do you want to finish the measurement?",
+          "GR": "Möchten Sie die Messung beenden?"
+        },
+        {
+          "@code": "HealthMessage",
+          "TR": "SAĞLIK: Sağlığı 25 puan arttırır.",
+          "EN": "HEALTH: It increase 25 points.",
+          "GR": "GESUNDHEIT: Es erhöht sich um 25 Punkte."
+        },
+        {
+          "@code": "Shield",
+          "TR": "KALKAN: Kalkan verir.",
+          "EN": "SHIELD: It gives shield",
+          "GR": "SCHILD: Es gibt Schild"
+        },
+        {
+          "@code": "MultipleFever",
+          "TR": "ÇOKLU ATEŞ: Çoklu ateş verir.",
+          "EN": "MULTIPLE FEVER: It gives multiple fever",
+          "GR": "MULTIPLE FEVER: Es gibt mehrfaches Fieber"
+        },
+        {
+          "@code": "Magnet",
+          "TR": "MIKNATIS: Asteroidleri iter.",
+          "EN": "MAGNET: It push Asteroids",
+          "GR": "MAGNET: Es drückt Asteroiden"
+        },
+        {
+          "@code": "Enemy",
+          "TR": "DÜŞMAN SALDIRISI: Düşman hasarını artırır.",
+          "EN": "ENEMY ATTACT: It increase enemy attact",
+          "GR": "Feind-Attacke: Erhöht den Feind Attact"
+        },
+        {
+          "@code": "BombShell",
+          "TR": "BOMBA ATAĞI: Geniş alana etki eden bomba verir.",
+          "EN": "BOMBSHELL: It gives bomb that affects a large area",
+          "GR": "BOMBSHELL: Es gibt Bomben, die ein großes Gebiet betreffen"
+        },
+        {
+          "@code": "infosentence17",
+          "TR": "Objenin konumunu sıfırlamak için Space tuşuna basınız.",
+          "EN": "Press Space to reset the position of the object.",
+          "GR": "Drücken Sie die Leertaste, um die Position des Objekts zurückzusetzen."
+        },
+        {
+          "@code": "cameraoptions",
+          "TR": "Kamera Ayarı",
+          "EN": "Camera Options",
+          "GR": "Kameraoptionen"
+        },
+        {
+          "@code": "infosentence18",
+          "TR": "İlk Çubuğu Hareket Ettirdğinizde Süre Başlar",
+          "EN": "When The First Peg moves, The Time Starts",
+          "GR": "Wenn sich der erste Wirbel bewegt, beginnt die Zeit"
+        },
+        {
+          "@code": "timestarted",
+          "TR": "Süre Başladı",
+          "EN": "Time Has Begun",
+          "GR": "Die Zeit hat begonnen"
+        },
+        {
+          "@code": "walkback",
+          "TR": "Geri Git",
+          "EN": "Walk back",
+          "GR": "Zurückgehen"
+        },
+        {
+          "@code": "walkforward",
+          "TR": "İleri git",
+          "EN": "Walk forward",
+          "GR": "Vorwärts gehen"
+        },
+        {
+          "@code": "walkleft",
+          "TR": "Sola git",
+          "EN": "Walk left",
+          "GR": "Gehe nach links"
+        },
+        {
+          "@code": "walkright",
+          "TR": "Saga git",
+          "EN": "Walk right",
+          "GR": "Geh nach rechts"
+        },
+        {
+          "@code": "start1",
+          "TR": "Basla",
+          "EN": "Start",
+          "GR": "Start",
+          "AR": "استأنف"
+        },
+        {
+          "@code": "start",
+          "TR": "Başlat",
+          "EN": "Start",
+          "GR": "Start",
+          "AR": "ابدأ"
+        },
+        {
+          "@code": "turnleft",
+          "TR": "Sola Dön",
+          "EN": "Turn Left",
+          "GR": "Biegen Sie links ab"
+        },
+        {
+          "@code": "turnright",
+          "TR": "Sağa Dön",
+          "EN": "Turn Right",
+          "GR": "Biegen Sie rechts ab"
+        },
+        {
+          "@code": "current",
+          "TR": "Anlık",
+          "EN": "Current",
+          "GR": "Aktuell"
+        },
+        {
+          "@code": "max",
+          "TR": "Maks",
+          "EN": "Max",
+          "GR": "Max"
+        },
+        {
+          "@code": "MyReport",
+          "TR": "Raporlarım",
+          "EN": "My Report",
+          "GR": "Mein Bericht"
+        },
+        {
+          "@code": "assessment",
+          "TR": "Değerlendirme",
+          "EN": "Assessment",
+          "GR": "Bewertung"
+        },
+        {
+          "@code": "games",
+          "TR": "Oyunlar",
+          "EN": "Games",
+          "GR": "Spiele"
+        },
+        {
+          "@code": "proprioception",
+          "TR": "Propriosepsiyon",
+          "EN": "Proprioception",
+          "GR": "Propriozeption"
+        },
+        {
+          "@code": "goniometer",
+          "TR": "Goniometre",
+          "EN": "Goniometer",
+          "GR": "Goniometer"
+        },
+        {
+          "@code": "gonio",
+          "TR": "Goniometre",
+          "EN": "Goniometer",
+          "GR": "Goniometer"
+        },
+        {
+          "@code": "notConnected",
+          "TR": "Bağlı Değil",
+          "EN": "Not Connected",
+          "GR": "Nicht verbunden"
+        },
+        {
+          "@code": "butterflyColor",
+          "TR": "Kelebek Rengi",
+          "EN": "Butterfly Color",
+          "GR": "Schmetterlingsfarbe"
+        },
+        {
+          "@code": "leftLeg",
+          "TR": "Sol Bacak",
+          "EN": "Left Leg",
+          "GR": "Linkes Bein"
+        },
+        {
+          "@code": "rightLeg",
+          "TR": "Sağ Bacak",
+          "EN": "Right Leg",
+          "GR": "Rechtes Bein"
+        },
+        {
+          "@code": "leftArm",
+          "TR": "Sol Kol",
+          "EN": "Left Arm",
+          "GR": "Linker Arm"
+        },
+        {
+          "@code": "minBoarderAngle",
+          "TR": "Alt Sınır Açısı",
+          "EN": "Min Boarder Angle",
+          "GR": "Minimaler Grenzwinkel"
+        },
+        {
+          "@code": "maxBoarderAngle",
+          "TR": "Üst Sınır Açısı",
+          "EN": "Max Boarder Angle",
+          "GR": "Max Boarder-Winkel"
+        },
+        {
+          "@code": "calibration",
+          "TR": "Kalibrasyon",
+          "EN": "Calibration",
+          "GR": "Kalibrierung"
+        },
+        {
+          "@code": "goGame",
+          "TR": "Başla",
+          "EN": "Go Game",
+          "GR": "Spiel gehen"
+        },
+        {
+          "@code": "min_",
+          "TR": "En küçük",
+          "EN": "Min",
+          "GR": "Mindest"
+        },
+        {
+          "@code": "max_",
+          "TR": "En Büyük",
+          "EN": "Max",
+          "GR": "Max"
+        },
+        {
+          "@code": "target",
+          "TR": "Hedef",
+          "EN": "Target",
+          "GR": "Ziel"
+        },
+        {
+          "@code": "result",
+          "TR": "Sonuç",
+          "EN": "Result",
+          "GR": "Ergebnis"
+        },
+        {
+          "@code": "difference",
+          "TR": "Fark",
+          "EN": "Difference",
+          "GR": "Unterschied"
+        },
+        {
+          "@code": "rightArm",
+          "TR": "Sağ Kol",
+          "EN": "Right Arm",
+          "GR": "Rechter Arm"
+        },
+        {
+          "@code": "thu",
+          "TR": "Per",
+          "EN": "Thu",
+          "GR": "Do"
+        },
+        {
+          "@code": "wed",
+          "TR": "Çar",
+          "EN": "Wed",
+          "GR": "Heiraten"
+        },
+        {
+          "@code": "fri",
+          "TR": "Cum",
+          "EN": "Fri",
+          "GR": "Fr."
+        },
+        {
+          "@code": "sat",
+          "TR": "Cts",
+          "EN": "Sat",
+          "GR": "Sat"
+        },
+        {
+          "@code": "tus",
+          "TR": "Sal",
+          "EN": "Tus",
+          "GR": "Tus"
+        },
+        {
+          "@code": "mon",
+          "TR": "Pts",
+          "EN": "Mon",
+          "GR": "Mo"
+        },
+        {
+          "@code": "sun",
+          "TR": "Paz",
+          "EN": "Sun",
+          "GR": "Sonne"
+        },
+        {
+          "@code": "submit",
+          "TR": "Kaydet",
+          "EN": "Submit",
+          "GR": "einreichen"
+        },
+        {
+          "@code": "cancel",
+          "TR": "İptal",
+          "EN": "Cancel",
+          "GR": "Stornieren"
+        },
+        {
+          "@code": "jan",
+          "TR": "Ocak",
+          "EN": "January",
+          "GR": "Januar"
+        },
+        {
+          "@code": "feb",
+          "TR": "Şubat",
+          "EN": "February",
+          "GR": "Februar"
+        },
+        {
+          "@code": "mar",
+          "TR": "Mart",
+          "EN": "March",
+          "GR": "März"
+        },
+        {
+          "@code": "apr",
+          "TR": "Nisan",
+          "EN": "April",
+          "GR": "April"
+        },
+        {
+          "@code": "may",
+          "TR": "Mayıs",
+          "EN": "May",
+          "GR": "Kann"
+        },
+        {
+          "@code": "jun",
+          "TR": "Haziran",
+          "EN": "June",
+          "GR": "Juni"
+        },
+        {
+          "@code": "jul",
+          "TR": "Temmuz",
+          "EN": "July",
+          "GR": "Juli"
+        },
+        {
+          "@code": "aug",
+          "TR": "Ağustos",
+          "EN": "August",
+          "GR": "August"
+        },
+        {
+          "@code": "sep",
+          "TR": "Eylül",
+          "EN": "September",
+          "GR": "September"
+        },
+        {
+          "@code": "nov",
+          "TR": "Kasım",
+          "EN": "November",
+          "GR": "November"
+        },
+        {
+          "@code": "dec",
+          "TR": "Aralık",
+          "EN": "December",
+          "GR": "Dezember"
+        },
+        {
+          "@code": "oct",
+          "TR": "Ekim",
+          "EN": "October",
+          "GR": "Oktober"
+        },
+        {
+          "@code": "connected",
+          "TR": "Bağlı",
+          "EN": "Connected",
+          "GR": "In Verbindung gebracht"
+        },
+        {
+          "@code": "freehandtitle",
+          "TR": "Serbest El Hareketi",
+          "EN": "Free Hand Motion",
+          "GR": "Freie Handbewegung"
+        },
+        {
+          "@code": "elbowtitle",
+          "TR": "Dirsek Hareketi",
+          "EN": "Elbow Motion",
+          "GR": "Ellenbogenbewegung"
+        },
+        {
+          "@code": "zone",
+          "TR": "Bölge",
+          "EN": "Zone",
+          "GR": "Zone"
+        },
+        {
+          "@code": "direction",
+          "TR": "Yön",
+          "EN": "Direction",
+          "GR": "Richtung"
+        },
+        {
+          "@code": "up",
+          "TR": "Yukarı",
+          "EN": "Up",
+          "GR": "Oben"
+        },
+        {
+          "@code": "down",
+          "TR": "Aşağı",
+          "EN": "Down",
+          "GR": "Nieder"
+        },
+        {
+          "@code": "both",
+          "TR": "İkisi",
+          "EN": "Both",
+          "GR": "Beide"
+        },
+        {
+          "@code": "top",
+          "TR": "Top",
+          "EN": "Üst",
+          "GR": "Üst"
+        },
+        {
+          "@code": "bottom",
+          "TR": "Alt",
+          "EN": "Bottom",
+          "GR": "Unterseite"
+        },
+        {
+          "@code": "elbowalert",
+          "TR": "Dirsek Referans Pozisyonda Olmalıdır",
+          "EN": "Elbow Must Be In Reference Position",
+          "GR": "Ellbogen muss sich in Referenzposition befinden"
+        },
+        {
+          "@code": "reportDetail",
+          "TR": "Rapor",
+          "EN": "Report",
+          "GR": "Bericht"
+        },
+        {
+          "@code": "repetitions",
+          "TR": "Tekrar",
+          "EN": "Repetitions",
+          "GR": "Wiederholungen"
+        },
+        {
+          "@code": "tableLength",
+          "TR": "Tabla Uzunluğu",
+          "EN": "Table Length",
+          "GR": "Tischlänge"
+        },
+        {
+          "@code": "shoulderFlexion",
+          "TR": "Omuz Fleksiyon",
+          "EN": "Shoulder Flexion",
+          "GR": "Schulterbeugung"
+        },
+        {
+          "@code": "elbowFlexion",
+          "TR": "Dirsek Fleksiyon",
+          "EN": "Elbow Flexion",
+          "GR": "Ellenbogenbeugung"
+        },
+        {
+          "@code": "showReport",
+          "TR": "Raporu Göster",
+          "EN": "Show Report",
+          "GR": "Bericht zeigen"
+        },
+        {
+          "@code": "adjust",
+          "TR": "Kalibrasyon yaptıktan sonra devam edin.",
+          "EN": "Continue after making calibration.",
+          "GR": "Fahren Sie nach der Kalibrierung fort."
+        },
+        {
+          "@code": "propGrafic",
+          "TR": "Propriosepsiyon Grafiği",
+          "EN": "Proprioception Graphic",
+          "GR": "Proprioception-Grafik"
+        },
+        {
+          "@code": "mapGraphic",
+          "TR": "Yoğunluk Haritası",
+          "EN": "Density Map",
+          "GR": "Dichtekarte"
+        },
+        {
+          "@code": "scoreTable",
+          "TR": "Puan Tablosu",
+          "EN": "Score Table",
+          "GR": "Score-Tabelle"
+        },
+        {
+          "@code": "resetMesurmnt",
+          "TR": "Ölçümü Sıfırla",
+          "EN": "Reset Measurement",
+          "GR": "Messung zurücksetzen"
+        },
+        {
+          "@code": "stop1",
+          "TR": "İlk Ölçümü Bitir",
+          "EN": "Finish First Measurement",
+          "GR": "Erste Messung abschließen"
+        },
+        {
+          "@code": "stop2",
+          "TR": "İkinci Ölçümü Bitir",
+          "EN": "Finish Second Measurement",
+          "GR": "Beenden Sie die zweite Messung"
+        },
+        {
+          "@code": "stop3",
+          "TR": "Ölçümü Bitir",
+          "EN": "Finish Measurement",
+          "GR": "Messung abschließen"
+        },
+        {
+          "@code": "stop",
+          "TR": "Durdur",
+          "EN": "Stop",
+          "GR": "Halt",
+          "AR": "التوقف"
+        },
+        {
+          "@code": "mesureType",
+          "TR": "Aralıklı Ölçüm",
+          "EN": "Intermittent Measurement",
+          "GR": "Intermittierende Messung"
+        },
+        {
+          "@code": "countOfApple",
+          "TR": "Elma Sayısı",
+          "EN": "Number of Apples",
+          "GR": "Anzahl Äpfel"
+        },
+        {
+          "@code": "ballScale",
+          "TR": "Topun Boyutu",
+          "EN": "Ball Scale",
+          "GR": "Kugelwaage"
+        },
+        {
+          "@code": "saveData",
+          "TR": "Verileri Kaydet",
+          "EN": "Save Data",
+          "GR": "Daten speichern"
+        },
+        {
+          "@code": "ExerciseSelection",
+          "TR": "Egzersiz Seçimi",
+          "EN": "Exercise Selection",
+          "GR": "Übungsauswahl"
+        },
+        {
+          "@code": "endgame",
+          "TR": "Oyun Bitti",
+          "EN": "Game Over",
+          "GR": "Spiel ist aus"
+        },
+        {
+          "@code": "sumscoretext",
+          "TR": "Toplam Puan",
+          "EN": "Total Score",
+          "GR": "Gesamtpunktzahl",
+          "AR": "مجموع النقاط"
+        },
+        {
+          "@code": "goodwork",
+          "TR": "Başardın",
+          "EN": "Good Works",
+          "GR": "Gute Taten"
+        },
+        {
+          "@code": "gameovertext",
+          "TR": "Oyun Bitti",
+          "EN": "Game Over",
+          "GR": "Spiel ist aus"
+        },
+        {
+          "@code": "Giyilebilir sensör",
+          "TR": "Giyilebilir Sensör",
+          "EN": "Wearable Sensors",
+          "GR": "Tragbare Sensoren"
+        },
+        {
+          "@code": "RequestLicense",
+          "TR": "Lisans İstek",
+          "EN": "Request a License",
+          "GR": "Fordern Sie eine Lizenz an"
+        },
+        {
+          "@code": "messages",
+          "TR": "Mesajlar",
+          "EN": "Messages",
+          "GR": "Mitteilungen"
+        },
+        {
+          "@code": "contact",
+          "TR": "İletişim",
+          "EN": "Contact",
+          "GR": "Kontakt"
+        },
+        {
+          "@code": "AssessmentSystem",
+          "TR": "Değerlendirme Sistemi",
+          "EN": "Assessment System",
+          "GR": "Bewertungssystem"
+        },
+        {
+          "@code": "game",
+          "TR": "Oyun",
+          "EN": "Game",
+          "GR": "Spiel"
+        },
+        {
+          "@code": "gameLoading",
+          "TR": "Oyun Yükleniyor. Lütfen Bekleyin.",
+          "EN": "Game Loading. Please Wait.",
+          "GR": "Spiel läd. Warten Sie mal.",
+          "AR": "يتم تحميل اللعبة. يرجى الانتظار"
+        },
+        {
+          "@code": "motto",
+          "TR": "Rehabilitasyon Deneyimi için Yenilik",
+          "EN": "Innovation for Rehabilitation Experience",
+          "GR": "Innovation für Rehabilitationserfahrung"
+        },
+        {
+          "@code": "ust ekstremite",
+          "TR": "Ekstremite ROM",
+          "EN": "Extrimity ROM",
+          "GR": "Extrimity ROM"
+        },
+        {
+          "@code": "denge",
+          "TR": "Denge Sistemi",
+          "EN": "Balance System",
+          "GR": "Balance-System"
+        },
+        {
+          "@code": "el ve parmak",
+          "TR": "El Rom",
+          "EN": "Hand Rom",
+          "GR": "Hand Rom"
+        },
+        {
+          "@code": "dizsec",
+          "TR": "Diz Seçim",
+          "EN": "Knee Selection",
+          "GR": "Knieauswahl"
+        },
+        {
+          "@code": "fleskaci",
+          "TR": "Fleksiyon Açısı",
+          "EN": "Flexion Angle",
+          "GR": "Flexionswinkel"
+        },
+        {
+          "@code": "topthiz",
+          "TR": "Top Hız Seçim",
+          "EN": "Ball Speed Selection",
+          "GR": "Auswahl der Ballgeschwindigkeit"
+        },
+        {
+          "@code": "lringt",
+          "TR": "Sol ve Sağ",
+          "EN": "Left and Right",
+          "GR": "Links und rechts"
+        },
+        {
+          "@code": "dizegzersiz",
+          "TR": "Diz Egzersizi",
+          "EN": "Knee Exercise",
+          "GR": "Knie-Übung"
+        },
+        {
+          "@code": "omuzegzersiz",
+          "TR": "Omuz Egzersizi",
+          "EN": "Shoulder Exercise",
+          "GR": "Schulterübung"
+        },
+        {
+          "@code": "omuzsecimm",
+          "TR": "Omuz Seçimi",
+          "EN": "Shoulder Selection",
+          "GR": "Schulterauswahl"
+        },
+        {
+          "@code": "lb_start",
+          "TR": "Topu kavrayın ve aynı renkteki sepetlerin içine atın",
+          "EN": "Grasp the ball and throw it into baskets of the same color",
+          "GR": "Fassen Sie den Ball und werfen Sie ihn in Körbe derselben Farbe"
+        },
+        {
+          "@code": "loading",
+          "TR": "Yükleniyor",
+          "EN": "Loading",
+          "GR": "Wird geladen"
+        },
+        {
+          "@code": "roundsNum",
+          "TR": "Tur Sayısı",
+          "EN": "Number of Rounds",
+          "GR": "Anzahl der Runden"
+        },
+        {
+          "@code": "flexion/extansion",
+          "TR": "Bilek Fleksiyon/Ekstansiyon",
+          "EN": "Wrist Flexion/Extension",
+          "GR": "Handgelenksbeugung / Verlängerung"
+        },
+        {
+          "@code": "pronation/supination",
+          "TR": "Bilek Pronasyon/Supinasyon",
+          "EN": "Wrist Pronation/Supination",
+          "GR": "Handgelenks-Pronation / Supination"
+        },
+        {
+          "@code": "ulnar/radial",
+          "TR": "Bilek Ulnar/Radyal",
+          "EN": "Wrist Ulnar/Radial",
+          "GR": "Handgelenk Ulnar / Radial"
+        },
+        {
+          "@code": "fingers/flexion/extansion",
+          "TR": "Parmaklar Fleksiyon/Ekstansiyon",
+          "EN": "Fingers Flexion/Extension",
+          "GR": "Fingers Flexion / Erweiterung"
+        },
+        {
+          "@code": "rwfe",
+          "TR": "Sağ Bilek Fleksiyon/Ekstansiyon",
+          "EN": "Right Wrist Flexion/Extension",
+          "GR": "Flexion / Verlängerung des rechten Handgelenks"
+        },
+        {
+          "@code": "lwfe",
+          "TR": "Sol Bilek Fleksiyon/Ekstansiyon",
+          "EN": "Left Wrist Flexion/Extension",
+          "GR": "Flexion / Verlängerung des linken Handgelenks"
+        },
+        {
+          "@code": "rur",
+          "TR": "Sağ Bilek Ulnar/Radyal",
+          "EN": "Right Wrist Ulnar/Radial",
+          "GR": "Handgelenk Ulnar / Radial"
+        },
+        {
+          "@code": "lur",
+          "TR": "Sol Bilek Ulnar/Radyal",
+          "EN": "Left Wrist Ulnar/Radial",
+          "GR": "Linkes Handgelenk Ulnar / Radial"
+        },
+        {
+          "@code": "rps",
+          "TR": "Sağ Bilek Pronasyon/Supinasyon",
+          "EN": "Right Wrist Pronation/Supination",
+          "GR": "Rechte Handgelenkpronation / Supination"
+        },
+        {
+          "@code": "lps",
+          "TR": "Sol Bilek Pronasyon/Supinasyon",
+          "EN": "Left Wrist Pronation/Supination",
+          "GR": "Linke Handgelenkpronation / Supination"
+        },
+        {
+          "@code": "tfe",
+          "TR": "Baş Parmak Fleksiyon/Ekstansiyon",
+          "EN": "Thumb Flexion/Extension",
+          "GR": "Daumenbeugung / Verlängerung"
+        },
+        {
+          "@code": "ffe",
+          "TR": "Parmaklar Fleksiyon/Ekstansiyon",
+          "EN": "Fingers Flexion/Extension",
+          "GR": "Fingers Flexion / Erweiterung"
+        },
+        {
+          "@code": "slh",
+          "TR": "Sol Ölçüme Geç",
+          "EN": "Switch to Left Hand",
+          "GR": "Wechseln Sie zur linken Hand"
+        },
+        {
+          "@code": "olcum_bitir",
+          "TR": "Ölçümü Bitir",
+          "EN": "Finish",
+          "GR": "Fertig"
+        },
+        {
+          "@code": "restart1",
+          "TR": "Yenile",
+          "EN": "Restart",
+          "GR": "Neustart",
+          "AR": "تجديد"
+        },
+        {
+          "@code": "trygame",
+          "TR": "Haydi Tekrar Deneyelim!",
+          "EN": "Let's try it again",
+          "GR": "Versuchen wir's nochmal",
+          "AR": "لنجرب مجددا!"
+        },
+        {
+          "@code": "duration",
+          "TR": "Süre",
+          "EN": "Duration",
+          "GR": "Dauer"
+        },
+        {
+          "@code": "cong_text",
+          "TR": "TEBRİKLER",
+          "EN": "CONGRATULATIONS",
+          "GR": "HERZLICHE GLÜCKWÜNSCHE"
+        },
+        {
+          "@code": "doctor",
+          "TR": "Doktor",
+          "EN": "Doctor",
+          "GR": "Arzt"
+        },
+        {
+          "@code": "frontView",
+          "TR": "Önden Görünüş",
+          "EN": "Front View",
+          "GR": "Vorderansicht"
+        },
+        {
+          "@code": "leg",
+          "TR": "Bacak",
+          "EN": "Leg",
+          "GR": "Bein"
+        },
+        {
+          "@code": "extremityLengths",
+          "TR": "Ekstremite Uzunlukları",
+          "EN": "Extremity Lengths",
+          "GR": "Extremitätenlängen"
+        },
+        {
+          "@code": "tiltAngle",
+          "TR": "Eğim Açısı",
+          "EN": "Tilt Angle",
+          "GR": "Neigungswinkel"
+        },
+        {
+          "@code": "measurementImage",
+          "TR": "Ölçüm Görseli",
+          "EN": "Measurement Image",
+          "GR": "Messbild"
+        },
+        {
+          "@code": "anteriorPostureAnalysis",
+          "TR": "Ön Duruş Analizi",
+          "EN": "Anterior Posture Analysis",
+          "GR": "Anterior Posture Analysis"
+        },
+        {
+          "@code": "rightLateralPostureAnalysis",
+          "TR": "Sağ Yan duruş Analizi",
+          "EN": "Right Lateral Posture Analysis",
+          "GR": "Analyse der rechten lateralen Haltung"
+        },
+        {
+          "@code": "leftLateralPostureAnalysis",
+          "TR": "Sol Yan Duruş Analizi",
+          "EN": "Left Lateral Posture Analysis",
+          "GR": "Analyse der linken lateralen Haltung"
+        },
+        {
+          "@code": "descriptions",
+          "TR": "Açıklamalar",
+          "EN": "Descriptions",
+          "GR": "Beschreibungen"
+        },
+        {
+          "@code": "postureAnalysisReport",
+          "TR": "Postur Analiz Raporu",
+          "EN": "Posture Analysis Report",
+          "GR": "Posture Analysis Report"
+        },
+        {
+          "@code": "headAngle",
+          "TR": "Baş Açısı",
+          "EN": "Head Angle",
+          "GR": "Kopf winkel"
+        },
+        {
+          "@code": "hipAngle",
+          "TR": "Kalça Aşısı",
+          "EN": "Hip Angle",
+          "GR": "Hüftwinkel"
+        },
+        {
+          "@code": "kneeAngle",
+          "TR": "Diz Açısı",
+          "EN": "Knee Angle",
+          "GR": "Kniewinkel"
+        },
+        {
+          "@code": "shoulders",
+          "TR": "Omuzlar",
+          "EN": "Shoulders",
+          "GR": "Schultern"
+        },
+        {
+          "@code": "headFlexion",
+          "TR": "Kafa Fleksiyonu",
+          "EN": "Head Flexion",
+          "GR": "Kopfbeugung"
+        },
+        {
+          "@code": "shoulderLevelDifference",
+          "TR": "Omuz Seviyesi Farkı",
+          "EN": "Shoulder Level Difference",
+          "GR": "Schulterpegelunterschied"
+        },
+        {
+          "@code": "hipLevelDifference",
+          "TR": "Kalça Seviyesi Farkı",
+          "EN": "Hip Level Difference",
+          "GR": "Hüftpegelunterschied"
+        },
+        {
+          "@code": "distanceBetweenMalleoller",
+          "TR": "Malleolar Arasındaki Mesafe",
+          "EN": "Distance Between Malleoller",
+          "GR": "Abstand zwischen Malleoller"
+        },
+        {
+          "@code": "kneeLevelDifference",
+          "TR": "Diz Seviyesindeki Fark",
+          "EN": "Knee Level Difference",
+          "GR": "Kniepegelunterschied"
+        },
+        {
+          "@code": "upper",
+          "TR": "Üst",
+          "EN": "Upper",
+          "GR": "Oberer, höher"
+        },
+        {
+          "@code": "lower",
+          "TR": "Alt",
+          "EN": "Lower",
+          "GR": "Niedriger"
+        },
+        {
+          "@code": "extremity",
+          "TR": "Ekstremite",
+          "EN": "Extremity",
+          "GR": "Extremität"
+        },
+        {
+          "@code": "hipFlexionAngle",
+          "TR": "Kalça Fleksiyon Açısı",
+          "EN": "Hip Flexion Angle",
+          "GR": "Hüftbeugewinkel"
+        },
+        {
+          "@code": "kneeFlexionAngle",
+          "TR": "Diz Fleksiyon Açısı",
+          "EN": "Knee Flexion Angle",
+          "GR": "Knie-Flexionswinkel"
+        },
+        {
+          "@code": "shoulderProtraction",
+          "TR": "Omuz Protraksiyonu",
+          "EN": "Shoulder Protraction",
+          "GR": "Schulterprotraktion"
+        },
+        {
+          "@code": "notes",
+          "TR": "Notlar",
+          "EN": "Notes",
+          "GR": "Anmerkungen"
+        },
+        {
+          "@code": "maximumValue",
+          "TR": "Maksimum Değer",
+          "EN": "Maximum Value",
+          "GR": "Höchster Wert"
+        },
+        {
+          "@code": "highest",
+          "TR": "En Yüksek",
+          "EN": "Highest",
+          "GR": "Höchste"
+        },
+        {
+          "@code": "angularVelocity",
+          "TR": "Açısal Hız",
+          "EN": "Angular Velocity",
+          "GR": "Winkelgeschwindigkeit"
+        },
+        {
+          "@code": "ForgotPassword",
+          "TR": "Şifremi Unuttum",
+          "EN": "Forgot Password",
+          "GR": "Passwort vergessen"
+        },
+        {
+          "@code": "signUp",
+          "TR": "Kaydol",
+          "EN": "Sign Up",
+          "GR": "Anmelden"
+        },
+        {
+          "@code": "test5",
+          "TR": "testt",
+          "EN": "teste",
+          "GR": "testg"
+        },
+        {
+          "@code": "test55",
+          "TR": "rr",
+          "EN": "rrr",
+          "GR": "ww"
+        },
+        {
+          "@code": "life",
+          "TR": "Can",
+          "EN": "Life",
+          "GR": "Leben"
+        },
+        {
+          "@code": "gameSelection",
+          "TR": "Oyun Seçimi",
+          "EN": "Game Selection",
+          "GR": "Spielauswahl",
+          "AR": "اختيار اللعبة"
+        },
+        {
+          "@code": "maze",
+          "TR": "Labirent",
+          "EN": "Labyrinth",
+          "GR": "Labyrinth",
+          "AR": "متاهة"
+        },
+        {
+          "@code": "bowling",
+          "TR": "Bowling",
+          "EN": "Bowling",
+          "GR": "Bowling",
+          "AR": "البولينج"
+        },
+        {
+          "@code": "rivalScoreText",
+          "TR": "Rakip",
+          "EN": "Rival",
+          "GR": "Wettbewerb",
+          "AR": "المنافس"
+        },
+        {
+          "@code": "season",
+          "TR": "Mevsim",
+          "EN": "Season",
+          "GR": "Jahreszeit"
+        },
+        {
+          "@code": "spring",
+          "TR": "İlkbahar",
+          "EN": "Spring",
+          "GR": "Frühling"
+        },
+        {
+          "@code": "summer",
+          "TR": "Yaz",
+          "EN": "Summer",
+          "GR": "Sommer"
+        },
+        {
+          "@code": "autumn",
+          "TR": "Sonbahar",
+          "EN": "Autumn",
+          "GR": "Herbst"
+        },
+        {
+          "@code": "winter",
+          "TR": "Kış",
+          "EN": "Winter",
+          "GR": "Winter"
+        },
+        {
+          "@code": "calori",
+          "TR": "Kalori",
+          "EN": "Calori",
+          "GR": "Calori"
+        },
+        {
+          "@code": "balance",
+          "TR": "Dengeli",
+          "EN": "Balanced",
+          "GR": "Ausgewogen"
+        },
+        {
+          "@code": "music",
+          "TR": "Müzik",
+          "EN": "Music",
+          "GR": "Musik",
+          "AR": "موسيقى"
+        },
+        {
+          "@code": "leftRight",
+          "TR": "Sol - Sağ",
+          "EN": "Left - Right",
+          "GR": "Links - Recht",
+          "AR": "نقل الوزن (يمين - يسار)"
+        },
+        {
+          "@code": "forwardBack",
+          "TR": "İleri - Geri",
+          "EN": "Forward - Back",
+          "GR": "Vorwärts - Zurück",
+          "AR": "نقل الوزن ( إلى الامام - إلى الخلف)"
+        },
+        {
+          "@code": "weightTransfer",
+          "TR": "Ağırlık Aktarma",
+          "EN": "Weight Transfer",
+          "GR": "Gewichtsübertragung",
+          "AR": "نقل الوزن"
+        },
+        {
+          "@code": "userManual",
+          "TR": "Nasıl Oynanır?",
+          "EN": "How to Play?",
+          "GR": "Spielanleitung?",
+          "AR": "كيف ألعب؟"
+        },
+        {
+          "@code": "infoTimeValue",
+          "TR": "Oyunu oynayacağınız süreyi belirtir.",
+          "EN": "You can play the game for as long as you set.",
+          "GR": "Sie können das Spiel so lange spielen, wie Sie es eingestellt haben.",
+          "AR": "حدد الوقت الذي ستلعب فيه اللعبة"
+        },
+        {
+          "@code": "infoTargetScoreValue",
+          "TR": "Oyunda kazanmanız geren puandır",
+          "EN": "The score you need to earn in the game",
+          "GR": "Die Punktzahl, die Sie im Spiel verdienen müssen",
+          "AR": "عدد النجوم التي تحتاج تجميعها في اللعبة"
+        },
+        {
+          "@code": "infoWeightTransferLeftRight",
+          "TR": "Lateral Ağırlık Aktarma",
+          "EN": "Lateral Weight Transfer",
+          "GR": "Seitliche Gewichtsübertragung",
+          "AR": "نقل الوزن من اليسار إلى اليمين"
+        },
+        {
+          "@code": "infoWeightTransferLeftRightValue",
+          "TR": "Oyun ekranında yönlendirdiğiniz objenin hızını sağ ve sol yönde artırmanıza ve azaltmanızı sağlar.",
+          "EN": "Allows you to increase and decrease the speed of the object you direct on the game screen in left and right directions.",
+          "GR": "Ermöglicht das Erhöhen und Verringern der Geschwindigkeit des Objekts, das Sie auf dem Spielbildschirm in linker und rechter Richtung steuern.",
+          "AR": "يسمح لك بزيادة وتقليل سرعة الكرة التي توجهها على شاشة اللعبة في اتجاه اليمين أو اليسار"
+        },
+        {
+          "@code": "infoLevelValue",
+          "TR": "Oyunda 3 seviye bulunmaktadır.Seviyeler ilerledikçe, dönen nesneler oyun alanında görünecek ve yönlendirdiğiniz topların sayısı artacaktır.",
+          "EN": "There are 3 levels in the game. As the levels progress, the rotating objects will appear on the playing field and the number of balls you direct will increase.",
+          "GR": "Es gibt 3 Levels im Spiel.Mit fortschreitenden Levels erscheinen die rotierenden Objekte auf dem Spielfeld und die Anzahl der Bälle, die Sie lenken, erhöht sich.",
+          "AR": "هناك ثلاثة مستويات في اللعبة مع تقدم المستويات ، سيزداد عدد النجوم التي تحتاج إلى جمعها وستصبح اللعبة أكثر صعوبة"
+        },
+        {
+          "@code": "infoAim",
+          "TR": "Oyunun amacı, denge hareketleri ile oyun alanına topu yönlendirmek ve topu rakip oyuncunun alanına geçirmektir.",
+          "EN": "The aim of the game is to guide the ball on the playing field with the balance movements and pass the ball to the field of the opponent player.",
+          "GR": "Ziel des Spiels ist es, den Ball mit den Gleichgewichtsbewegungen auf dem Spielfeld zu führen und den Ball auf das Spielfeld des gegnerischen Spielers zu übertragen.",
+          "AR": "الهدف من اللعبة هو توجيه الكرة في ميدان اللعب بحركات متوازنة وتمرير الكرة إلي ميدان لعب اللاعب الخصم"
+        }
+      ]
+    }
+  }
+}
